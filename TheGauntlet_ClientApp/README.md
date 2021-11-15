@@ -1,5 +1,7 @@
 # clientapp
 
+run npm i @vue/cli-service
+
 ## Project setup
 ```
 npm install
