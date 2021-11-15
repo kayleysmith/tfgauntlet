@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
